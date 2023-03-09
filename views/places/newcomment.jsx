@@ -1,7 +1,7 @@
 const React = require('react')
 const Def = require('../default.jsx')
 
-function comment_form ({place}) {
+function comment_form ({place})  {
     return (
         <Def>
           <main>
